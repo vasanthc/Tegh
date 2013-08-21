@@ -1,0 +1,28 @@
+{
+    "name": "construct-client"
+  , "version": "0.2.0"
+  , "private": true
+  , "main": "./src/tegh"
+  , "dependencies": {
+    "express": "3.x" 
+    , "coffee-script": "1.6.3"
+    , "sugar": "*"
+    , "fs-extra": "*"
+    , "js-yaml": "*"
+    , "glob": "*"
+    , "request": "*"
+    , "form-data": "git+https://github.com/D1plo1d/node-form-data.git"
+    , "websocket": "*"
+    , "keypress": ">=0.2"
+    , "ansi": "*"
+    , "colors": "*"
+    , "touch": "*"
+    , "flavored-path": "*"
+    , "native-dns": "*"
+    , "exec-sync": "*"
+  },
+    "engines": {
+    "node": "~0.10.x",
+    "npm": "1.1.x"
+  }
+}
